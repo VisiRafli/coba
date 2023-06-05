@@ -1,0 +1,16 @@
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\bin\Debug\Relaydingtian.exe.config
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\bin\Debug\Relaydingtian.exe
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\bin\Debug\Relaydingtian.pdb
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\obj\Debug\Relaydingtian.csproj.AssemblyReference.cache
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\obj\Debug\Relaydingtian.csproj.SuggestedBindingRedirects.cache
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\obj\Debug\MainWindow.g.cs
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\obj\Debug\App.g.cs
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\obj\Debug\Relaydingtian_MarkupCompile.cache
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\obj\Debug\Relaydingtian_MarkupCompile.lref
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\obj\Debug\MainWindow.baml
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\obj\Debug\Relaydingtian.g.resources
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\obj\Debug\Relaydingtian.Properties.Resources.resources
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\obj\Debug\Relaydingtian.csproj.GenerateResource.cache
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\obj\Debug\Relaydingtian.csproj.CoreCompileInputs.cache
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\obj\Debug\Relaydingtian.exe
+C:\Users\VGT\source\repos\Relaydingtian\Relaydingtian\obj\Debug\Relaydingtian.pdb
