@@ -214,7 +214,7 @@ namespace Relaydingtian.ViewModel
                 System.Windows.Forms.MessageBox.Show("Fail to connect to relay board. Error details: " + ex.ToString(), "", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }
-
+            //test commit git, push ke main branch - rafli
         }
     }
 }
