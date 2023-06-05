@@ -215,6 +215,7 @@ namespace Relaydingtian.ViewModel
                 return false;
             }
             //test commit git, push ke main branch - rafli
+            //test commit git, push ke new branch - rafli
         }
     }
 }
